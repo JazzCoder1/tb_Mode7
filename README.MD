@@ -11,7 +11,7 @@ Years ago I saw the code for how to achieve Mode7 graphics effects in a c progra
 I have since ported that code to just about every flavor of BASIC.  
 This is the twinBASIC port.  
 
-![screenshot](https://github.com/JazzCoder1/tb_BearLibTerminal/blob/main/bearlibterm.png?raw=true "Examples")
+![screenshot](https://github.com/JazzCoder1/tb_Mode7/blob/main/mode7.PNG?raw=true)
 
 There are 2 methods used in this repository.  
 
